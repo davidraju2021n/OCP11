@@ -1,0 +1,36 @@
+1)Post-unary operators 
+expression++, expression-- 
+
+2)Pre-unary operators 
+++expression, --expression
+
+3)Other unary operators 
+-, !, ~, +, (type)
+
+4)Multiplication/division/modulus
+ *, /, % 
+ 
+5)Addition/subtraction 
++, -
+
+6)Shift operators 
+<<, >>, >>>
+
+7)Relational operators
+ <, >, <=, >=, instanceof
+ 
+8)Equal to/not equal to 
+==, !=
+
+9)Logical operators 
+&, ^, |
+
+10)Short-circuit logical operators
+ &&, ||
+ 
+11)Ternary operators 
+boolean expression ? expression1 : expression2
+
+12)Assignment operators
+=, +=, -=, *=, /=, %=, &=, ^=, |=, <<=, >>=, >>>=
+
